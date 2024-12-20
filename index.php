@@ -7,7 +7,7 @@ get_header();
       <section class="wrapper banner-wrapper">
          <div id="flexSlider" class="flexslider">
             <ul class="slides"><
-            <li><img id="banner1" src="<?php echo get_template_directory_uri(); ?>/theme/images/banner/slider-1.jpg" alt="Banner Image 1" title="Banner 1"></li>
+               <li><img id="banner1" src="<?php echo get_template_directory_uri(); ?>/theme/images/banner/slider-1.jpg" alt="Banner Image 1" title="Banner 1"></li>
                <li><img src="<?php echo get_template_directory_uri(); ?>/theme/images/banner/slider-2.jpg" alt="Banner Image 2" title="Banner 2"></li>
                <li> <img src="<?php echo get_template_directory_uri(); ?>/theme/images/banner/slider-3.jpg" alt="Banner Image 3" title="Banner 3"></li>
                <li> <img src="<?php echo get_template_directory_uri(); ?>/theme/images/banner/slider-4.jpg" alt="Banner Image 4" title="Banner 4"></li>
